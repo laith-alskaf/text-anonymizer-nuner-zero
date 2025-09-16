@@ -1,0 +1,8 @@
+gliner==0.1.12
+python-docx
+pdfplumber
+faker
+Flask
+pyngrok
+typing-extensions
+python-dotenv
